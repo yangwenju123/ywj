@@ -11,16 +11,6 @@
 
 "sites":[
 
-{"key": "豆瓣","name": "🎯小盒酷玩┃QQ群：667928548","type": 3,"api": "http://xn--yet226clhctt4b.fun:66/lib/drpy2.min.js","ext": "http://xn--yet226clhctt4b.fun:66/js/douban.js"},
-
-{"key":"豆瓣","name":"🎯小盒酷玩┃QQ群：667928548","type":3,"api":"csp_Douban","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://xn--yets63d.xn--lcyt94d.fun:66/json/douban.json"},
-
-{"key": "csp_WoGG","name":"👽玩偶┃云盘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "http://小盒.酷玩.fun:68/Q群：667928548/禁止贩卖","filter": "http://xn--yets63d.xn--lcyt94d.fun:66/json/wogg.json"},"jar": "http://小盒.酷玩.fun:69/Q群：667928548/禁止贩卖"},
-
-{"key":"玩偶哥哥","name":"🧙玩偶┃哥哥","type":3,"api":"csp_Wogg","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖$$$https://api.wogg.xyz/$$$null$$$1","timeout":30},
-
-{"key":"酷玩云盘","name":"🎯酷玩┃云盘","type":3,"api":"csp_XiaoZhang","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖$$$null$$$1","timeout":30},
-
 {"key": "NOAD","name": "🥫NO┃视频","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://notabug.org/xhkw/vip/raw/main/json/novip.json"},
 
 {"key" : "js_v2-jrly","name" :"📯嘉靓┃切片","type" : 3,"api" : "https://notabug.org/xhkw/vip/raw/main/lib/drpy2.min.js","ext" : "https://notabug.org/xhkw/vip/raw/main/js/嘉靓.js"},
@@ -74,32 +64,6 @@
 {"key":"影探4K","name":"🕵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
 
 {"key":"南瓜影视","name":"🎃南瓜┃影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://小盒.酷玩.fun:72/Q群：667928548/禁止贩卖"},
-
-{"key":"夸克","name":"🏍夸克┃网盘","type": 3,"api": "csp_QuPanSou","jar": "http://小盒.酷玩.fun:75/Q群：667928548/禁止贩卖","searchable": 1,"filterable": 1,"changeable": 0,"ext": {"cookie": "http://小盒.酷玩.fun:76/Q群：667928548/禁止贩卖","danmu": true}},
-
-{"key":"影巢网盘","name":"🚜影巢┃网盘","type":3,"api":"csp_Hdhive","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖$$$null$$$1","timeout":30},
-
-{"key":"七夜","name":"🚲七夜┃网盘","type":3,"api":"csp_Dovx","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖", "timeout":30},
-
-{"key":"易搜","name":"🛸易搜┃网盘","type":3,"api":"csp_YiSo","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294", "timeout":30},
-
-{"key":"Up搜","name":"🚁Up搜┃网盘","type":3,"api":"csp_UpYun","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖", "timeout":30},
-
-{"key":"盘搜索","name":"🚢盘搜┃网盘","type":3,"api":"csp_PanSearch","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖", "timeout":30},
-
-{"key":"小纸条", "name":"🚃纸条┃网盘", "type": 3, "api":"csp_XiaoZhiTiao","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖", "timeout":30},
-
-{"key":"喵狸","name":"🚂喵狸┃网盘","type":3,"api":"csp_PanSou","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖", "timeout":30},
-
-{"key": "PanSearch","name": "🙀盘Se┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://小盒.酷玩.fun:68/Q群：667928548/禁止贩卖+4k|fhd|auto"},
-
-{"key": "七夜","name": "😾七夜┃云盘","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://小盒.酷玩.fun:68/Q群：667928548/禁止贩卖+4k|fhd|auto"},
-
-{"key": "YiSo","name": "🛎易搜┃云盘","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://小盒.酷玩.fun:68/Q群：667928548/禁止贩卖+4k|auto|fhd"},
-
-{"key": "PanSou","name": "🔘盘搜┃搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://小盒.酷玩.fun:68/Q群：667928548/禁止贩卖+4k|auto|fhd"},
-
-{"key": "UpYun","name": "📫Up┃云盘","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://小盒.酷玩.fun:68/Q群：667928548/禁止贩卖+4k|auto|fhd"},
 
 {"key":"横版影院","name":"📺良子┃短剧","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
 
