@@ -2,7 +2,7 @@
 //软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
 //QQ频道：小盒酷玩    
 //公众号：小盒酷玩
-//QQ交流群：817925554
+//QQ交流群：667928548
 
 {
 
@@ -11,25 +11,141 @@
 
 "sites":[
 
-{"key": "豆瓣","name": "🎯小盒酷玩VIP┃Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "豆瓣","name": "🎯小盒酷玩┃QQ群：667928548","type": 3,"api": "http://xn--yet226clhctt4b.fun:66/lib/drpy2.min.js","ext": "http://xn--yet226clhctt4b.fun:66/js/douban.js"},
 
-{"key":"玩偶妹妹","name":"🤡玩偶┃妹妹","type":3,"jar": "https://jihulab.com/xhkw/vip/-/raw/main/jar/阿里云盘.jar","api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/阿里推送.json$$$https://wogg.xyz/$$$null$$$1","timeout":30},
+{"key":"豆瓣","name":"🎯小盒酷玩┃QQ群：667928548","type":3,"api":"csp_Douban","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://xn--yets63d.xn--lcyt94d.fun:66/json/douban.json"},
 
+{"key": "csp_WoGG","name":"👽玩偶┃云盘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "http://小盒.酷玩.fun:68/Q群：667928548/禁止贩卖","filter": "http://xn--yets63d.xn--lcyt94d.fun:66/json/wogg.json"},"jar": "http://小盒.酷玩.fun:69/Q群：667928548/禁止贩卖"},
 
+{"key":"玩偶哥哥","name":"🧙玩偶┃哥哥","type":3,"api":"csp_Wogg","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖$$$https://api.wogg.xyz/$$$null$$$1","timeout":30},
 
+{"key":"酷玩云盘","name":"🎯酷玩┃云盘","type":3,"api":"csp_XiaoZhang","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖$$$null$$$1","timeout":30},
 
+{"key": "NOAD","name": "🥫NO┃视频","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://notabug.org/xhkw/vip/raw/main/json/novip.json"},
 
+{"key" : "js_v2-jrly","name" :"📯嘉靓┃切片","type" : 3,"api" : "https://notabug.org/xhkw/vip/raw/main/lib/drpy2.min.js","ext" : "https://notabug.org/xhkw/vip/raw/main/js/嘉靓.js"},
 
+{"key": "花海","name": "🌼花海┃影视","api": "csp_AppYs","type": 3,"playerType": "2","ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"},
 
+{"key":"csp_Free","name":"🌱Free┃影视","type":3,"api":"csp_XBPQ","jar": "http://小盒.酷玩.fun:70/Q群：667928548/禁止贩卖","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/json/free.json"},
 
+{"key": "03","name": "🧠零三┃影院","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://notabug.org/xhkw/vip/raw/main/json/03.json"},
 
+{"key": "云播","name": "☁️云播┃TV","type": 3,"api": "csp_XBPQ","jar": "http://小盒.酷玩.fun:70/Q群：667928548/禁止贩卖","ext":"https://notabug.org/xhkw/vip/raw/main/json/云播.json"},
+		
+{"key": "csp_疯狗","name": "🐶疯狗┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/疯狗.json"},
 
+{"key":"vip","name":"🍾超前┃点播","type": 3,"playerType":1, "api" : "https://notabug.org/xhkw/vip/raw/main/lib/drpy2.min.js","ext":"https://notabug.org/xhkw/vip/raw/main/js/超前点播.js"},
 
+{"key":"蝴蝶","name":"🦋蝴蝶┃追剧","type":3,"api":"csp_Hudie","playerType":2,"ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b","jar":"http://小盒.酷玩.fun:72/Q群：667928548/禁止贩卖"},
 
+{"key": "小胡","name": "🙆小胡┃影视","type": 1,"playerType": 1,"api": "http://d.xzam.cn/api.php/provide/vod/"},
 
+{"key":"飞云","name":"⛅飞云┃切片","type":3,"api":"https://notabug.org/xhkw/vip/raw/main/lib/drpy2.min.js","ext":"https://notabug.org/xhkw/vip/raw/main/js/fy.js","searchable":1,"quickSearch":1,"changeable":0},
 
+{"key": "xsj","name": "🐯Tiger┃TV","type": 3,"playerType": 2,"api": "csp_XBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://notabug.org/xhkw/vip/raw/main/json/Tiger.json"},
 
-{"key":"xh","name":"🎯2023.10.27更新","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
+{"key":"csp_XBPQ_多剧","name":"🏰多剧┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"演员\":\"主演：&&</div>\",\"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\":\"<span>&&</small>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$34#综艺$3#动漫$4\",\"分类url\":\"https://duoju.vip/vodshow/{cateId}--------{catePg}---.html\"}"},
+
+{"key": "萌米","name": "🌮萌米┃TV","type": 3,"searchable": 1,"quickSearch": 1,"api": "csp_Appto","jar":"http://小盒.酷玩.fun:71/Q群：667928548/禁止贩卖","playerType": 2,"ext": {"key": "QBccRNTdEscBYykPWRbKD7YREjN6AJYJ","ic": "","token": "","url": "http://app.mervod.com:9527","configurl": "/addons/apptov4/app.php/v1/config/get?p=android","api": "/addons/apptov4/app.php/v1/"}},
+
+{"key": "csp_AucFox","name": "🎡Auc┃Fox","type": 3,"api": "csp_XBPQ","ext": "https://notabug.org/xhkw/vip/raw/main/json/AucFox.json"},
+
+{"key": "znjson","name": "✂️ZNJ┃切片","type": 3,"api": "https://notabug.org/xhkw/vip/raw/main/lib/drpy2.min.js","ext": "https://notabug.org/xhkw/vip/raw/main/js/zanzan.js","searchable": 1,"quickSearch": 1,"changeable": 0},
+
+{"key":"csp_达龟","name":"🐢达达龟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/json/达达龟.json"},
+
+{"key":"牛牛","name":"🐂牛牛┃TV","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"ilH3/t4mr1SM09PvschTH1LOZQVQKtsm4MVV71I4Lwh63Oc97KaPnM2ZzZRvsQpckmVsMew5wnfhBUdHmy8YP+wok44dwqClEg0/PhTrtSCTOBGoOIf5QmbrPwtmGCBSsfWb2JZ6jrJ05gANATBhTNcmf3lFV45rF6ahsGTbeiIZTRVQM4TVfHB6CJI8QNfc88sKDjYjvMC7XhYNrmebd3ZIA++k361VGPv0jlGOHS8iUA6ywLlBgHp+jl84MIJcLvmzqN5OfD04xGXE/nNTqlf6CG83cX27GZ2036L7ZVdSiI9/dI0vmuQUvXXaA/OqH2xqDA1Y4ltd0fZoH7/x9fY+gg1nsxgDTalCQJL8lkAOdvft2m+QKyQB4gXrcWrH+eUOaScueRXlKSTGer3OR1ZyZmSgd/BvqSukXeaUmDPDJsERNe80PFW6B7xqbGQz5l9jNsxgwVkjque5eNYUuvyc3YK3N09bR1hMWw3aUpLldwBMLDNgCgH/YYBjEqAfXjooSZxI3nPReKeRyOnUmpoqbXE045w6A8nrFsiJ9jZaDQoRf6u9g8xNlXM11v5klfzrhT+0cHWdhIME4cn4Fq83p1NzlIZ808fXP79xmnqQdeNbMGKRELseJSwV8hfx+e6yVN5oOrRrVjD2rCDPSYBZh25Pp+5VH0k6NF3N6JwI=","jar":"http://小盒.酷玩.fun:72/Q群：667928548/禁止贩卖"},
+
+{"key": "csp_xBPQ_qixing","name": "🍃七新┃追剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/xhkw/vip/raw/main/json/七新.json"},
+
+{"key":"csp_CandyMuj_sstv","name":"📛速搜|TV","type":3,"api":"csp_CandyMuj_sstv","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://小盒.酷玩.fun:73/Q群：667928548/禁止贩卖"},
+
+{"key": "saoho","name": "🔥骚火┃电影","type": 3,"playerType": 1,"api": "https://notabug.org/xhkw/vip/raw/main/lib/drpy2.min.js","ext": "https://notabug.org/xhkw/vip/raw/main/js/骚火电影.js"},
+
+{"key":"星奇","name":"🌟星奇┃TV","type":3,"api":"csp_Appto","playerType":2,"ext":"DRKzxyMKvtSwY8KlZf2E0UaodOFwpc55fZ8i/57cIgQJHQLy6PnKLAAj9UrkpoexlNCAomzVttbI6D6TEnlHNVDqRhIQqGlHt8m6PjVxP7PSlmraDar52uqEU7UXaaV+UGqz0bc9q95VVRMK4uX5l674wT+p5Cp2QGr1D24Uz7QNkA6GgkDGW/ezLoYsXUCc7xsDK5ev51cJxn0cIJClFysrOGsTvyLYjYIF2ktu+F36QVcAsAvA6Jpyz2hSTlWadidOt2m81TA5yrfAKjBILuQ63gcnyXh6SH9VjER5dL2KD8iTVBAN3L9TlQqDHPr64N0D6mAldXLMYJM/RrTUznCbIno7V/eTT+YqnLWNekVigNB8Q7Fp3WgMYfk73VYcOqPKO2qwQWyJqaQDW4Uo7nFrQWttqYAwWEDhjM/ABuYLkLX9V83/QFOPkhBJZ+eQoqsiVP3ZugFGB5/XuVZkoYWaG00BRQ3j55vTflJ2ne0WQcFAj6GcYNLodkII4Ji53kVoL+w55Cc9PmtSR1tynlWDylYBfkJbtDOJSuEUKDnKiD/ZFqMAejQFV9EcZr1g6QbLIf/FRldeLYRxsYsWPFc2STqEdgGA+osyO/zzyaeZLH5AJ02l7kKyMxKMPaRF2MGX1DPnZHrbXA4u0A5Vy3M3IMFNZaR0f08C4KDDi1xY=","jar":"http://小盒.酷玩.fun:72/Q群：667928548/禁止贩卖"},
+
+{"key":"嘶哩","name":"🤺嘶哩┃动漫","type":3,"api":"csp_Skapp","playerType":2,"ext":"wf7jTHTllmPx90cSfqYsxOFbNiEn/OOwcQMioXntTCgGo6loj/amsxwUNfJPF2W00I+ZJzSan7pD3OPqeGn1/3CaJLZhzh/OtQFo7cJf/AA/LRGchJ/NNsdu8c3HeY8X3ic+nAYiOFIT7HiLfqFnBom04dCSbujoxb0RoT6iYiZSArenzm5E5lEpGHD/KltmbDpcX9Lkxj+9HnF/okAhK8nsUmta/Jrnk40HP7cZodP3QGeLUpeoOCQZzw++LuS9iYZSentZVKL9q/puBZ78nhjx4fw94cM1SbG0rcAB9vwZr4z9YYNRythGAfNeOsMgRpAOnZH8K5JuWFoADNhHLMA==","jar":"http://小盒.酷玩.fun:72/Q群：667928548/禁止贩卖"},
+
+{"key": "小柚","name": "🍊小柚┃TV","type": 3,"api": "csp_Skapp","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://小盒.酷玩.fun:71/Q群：667928548/禁止贩卖","ext": {"key": "ygcnbcwqzaekvzed","iv": "4004296093143708","token": "","url": "http://yz9.yzys.top"}},
+
+{"key": "csp_农民","name": "🕴农民┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/xhkw/vip/raw/main/json/农民.json"},
+
+{"key":"影探4K","name":"🕵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
+
+{"key":"南瓜影视","name":"🎃南瓜┃影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://小盒.酷玩.fun:72/Q群：667928548/禁止贩卖"},
+
+{"key":"夸克","name":"🏍夸克┃网盘","type": 3,"api": "csp_QuPanSou","jar": "http://小盒.酷玩.fun:75/Q群：667928548/禁止贩卖","searchable": 1,"filterable": 1,"changeable": 0,"ext": {"cookie": "http://小盒.酷玩.fun:76/Q群：667928548/禁止贩卖","danmu": true}},
+
+{"key":"影巢网盘","name":"🚜影巢┃网盘","type":3,"api":"csp_Hdhive","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖$$$null$$$1","timeout":30},
+
+{"key":"七夜","name":"🚲七夜┃网盘","type":3,"api":"csp_Dovx","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖", "timeout":30},
+
+{"key":"易搜","name":"🛸易搜┃网盘","type":3,"api":"csp_YiSo","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294", "timeout":30},
+
+{"key":"Up搜","name":"🚁Up搜┃网盘","type":3,"api":"csp_UpYun","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖", "timeout":30},
+
+{"key":"盘搜索","name":"🚢盘搜┃网盘","type":3,"api":"csp_PanSearch","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖", "timeout":30},
+
+{"key":"小纸条", "name":"🚃纸条┃网盘", "type": 3, "api":"csp_XiaoZhiTiao","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖", "timeout":30},
+
+{"key":"喵狸","name":"🚂喵狸┃网盘","type":3,"api":"csp_PanSou","jar": "http://小盒.酷玩.fun:77/Q群：667928548/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒.酷玩.fun:78/Q群：667928548/禁止贩卖", "timeout":30},
+
+{"key": "PanSearch","name": "🙀盘Se┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://小盒.酷玩.fun:68/Q群：667928548/禁止贩卖+4k|fhd|auto"},
+
+{"key": "七夜","name": "😾七夜┃云盘","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://小盒.酷玩.fun:68/Q群：667928548/禁止贩卖+4k|fhd|auto"},
+
+{"key": "YiSo","name": "🛎易搜┃云盘","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://小盒.酷玩.fun:68/Q群：667928548/禁止贩卖+4k|auto|fhd"},
+
+{"key": "PanSou","name": "🔘盘搜┃搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://小盒.酷玩.fun:68/Q群：667928548/禁止贩卖+4k|auto|fhd"},
+
+{"key": "UpYun","name": "📫Up┃云盘","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://小盒.酷玩.fun:68/Q群：667928548/禁止贩卖+4k|auto|fhd"},
+
+{"key":"横版影院","name":"📺良子┃短剧","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
+
+{"key": "88看球","name": "🏀88┃看球","type": 3,"api": "https://notabug.org/xhkw/vip/raw/main/lib/drpy2.min.js","ext": "https://notabug.org/xhkw/vip/raw/main/js/88看球.js"},
+
+{"key": "JRKAN球迷","name": "⚽JRKAN┃球迷","type": 3,"api": "https://notabug.org/xhkw/vip/raw/main/lib/drpy2.min.js","ext": "https://notabug.org/xhkw/vip/raw/main/js/JRKAN.js"},
+
+{"key":"动漫巴士","name":"🚌动漫┃巴士","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/json/dmbs.json"},
+
+{"key":"维奇动漫","name":"🚠维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/json/wqdm.json"},
+
+{"key":"斗鱼","name":"🐬斗鱼┃直播","type":3,"api":"https://notabug.org/xhkw/vip/raw/main/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/xhkw/vip/raw/main/js/斗鱼.js"},
+
+{"key":"虎牙","name":"🐯虎牙┃直播","type":3,"api":"https://notabug.org/xhkw/vip/raw/main/lib/drpy2.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/js/虎牙.js"},
+
+{"key": "相声小品" ,"name": "👺相声┃小品","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/jiaoyu/相声小品.json","jar":"http://小盒.酷玩.fun:74/Q群：667928548/禁止贩卖"},
+
+{"key": "美食" ,"name": "🍔美食┃品鉴","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/jiaoyu/美食.json","jar":"http://小盒.酷玩.fun:74/Q群：667928548/禁止贩卖"},
+
+{"key": "健身" ,"name": "🏓休闲┃健身","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/jiaoyu/健身.json","jar":"http://小盒.酷玩.fun:74/Q群：667928548/禁止贩卖"},
+
+{"key": "国学" ,"name": "📓国学┃经典","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/jiaoyu/国学.json","jar":"http://小盒.酷玩.fun:74/Q群：667928548/禁止贩卖"},
+
+{"key": "百科" ,"name": "📚百科┃全书","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/jiaoyu/百科.json","jar":"./jar/jiaoyu.jar"},
+
+{"key": "地理" ,"name": "🌍全球┃地理","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/jiaoyu/地理.json","jar":"http://小盒.酷玩.fun:74/Q群：667928548/禁止贩卖"},
+
+{"key": "科学" ,"name": "🧭科学┃发明","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/jiaoyu/科学.json","jar":"http://小盒.酷玩.fun:74/Q群：667928548/禁止贩卖"},
+
+{"key": "戏 曲" ,"name": "👹戏曲┃大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/jiaoyu/戏曲.json","jar":"http://小盒.酷玩.fun:74/Q群：667928548/禁止贩卖"},
+
+{"key":"兔小贝","name":"🐇兔小贝┃儿童","type":3,"api":"https://notabug.org/xhkw/vip/raw/main/lib/drpy2.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/js/兔小贝.js"},
+
+{"key":"外语","name":"👳外语┃教学","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/jiaoyu/外语.json","jar":"./jar/jiaoyu.jar"},
+
+{"key":"幼儿","name":"👲幼儿┃教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/jiaoyu/幼儿.json","jar":"http://小盒.酷玩.fun:74/Q群：667928548/禁止贩卖"},
+
+{"key":"小学","name":"🏠小学┃教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/jiaoyu/小学.json","jar":"http://小盒.酷玩.fun:74/Q群：667928548/禁止贩卖"},
+
+{"key":"初中","name":"🏣初中┃教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/jiaoyu/初中.json","jar":"http://小盒.酷玩.fun:74/Q群：667928548/禁止贩卖"},
+
+{"key":"高中","name":"🏤高中┃教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/jiaoyu/高中.json","jar":"http://小盒.酷玩.fun:74/Q群：667928548/禁止贩卖"},
+
+{"key":"哔哩哔哩","name":"🅱哔哩┃哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/json/哔哩哔哩.json","jar":"http://小盒.酷玩.fun:74/Q群：667928548/禁止贩卖"},
+
+{"key":"xh","name":"🎯2023.12.10更新","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
 
 ],
 
@@ -40,7 +156,9 @@
 
 {"name": "web聚合","type": 3,"url": "Web"},
 
-{"name": "🌽玉米","type": 1,"url": "http://61.147.93.21:8090/index.php?url="}
+{"name": "🎯小盒解析","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url="},
+
+{"name": "🎯酷玩解析","type": 0,"url": "https://jx.xmflv.com/?url="}
 
 ],
 
@@ -51,7 +169,7 @@
 
 
 
-"spider":"./jar/xhkwsvip.jar;md5;c435869db6a928f45df09b736d81f02f",
+"spider":"http://小盒酷玩.fun:67/QQ群：667928548/禁止贩卖;md5;c435869db6a928f45df09b736d81f02f",
 
 
 
