@@ -11,16 +11,6 @@
 
 "sites":[
 
-{"key":"csp_Free","name":"🌱Free┃影视","type":3,"api":"csp_XBPQ","jar": "http://小盒.酷玩.fun:70/Q群：667928548/禁止贩卖","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/json/free.json"},
-
-{"key": "03","name": "🧠零三┃影院","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://notabug.org/xhkw/vip/raw/main/json/03.json"},
-
-{"key": "云播","name": "☁️云播┃TV","type": 3,"api": "csp_XBPQ","jar": "http://小盒.酷玩.fun:70/Q群：667928548/禁止贩卖","ext":"https://notabug.org/xhkw/vip/raw/main/json/云播.json"},
-		
-{"key": "csp_疯狗","name": "🐶疯狗┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/疯狗.json"},
-
-{"key":"vip","name":"🍾超前┃点播","type": 3,"playerType":1, "api" : "https://notabug.org/xhkw/vip/raw/main/lib/drpy2.min.js","ext":"https://notabug.org/xhkw/vip/raw/main/js/超前点播.js"},
-
 {"key":"蝴蝶","name":"🦋蝴蝶┃追剧","type":3,"api":"csp_Hudie","playerType":2,"ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b","jar":"http://小盒.酷玩.fun:72/Q群：667928548/禁止贩卖"},
 
 {"key": "小胡","name": "🙆小胡┃影视","type": 1,"playerType": 1,"api": "http://d.xzam.cn/api.php/provide/vod/"},
