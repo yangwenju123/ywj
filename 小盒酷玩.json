@@ -11,12 +11,6 @@
 
 "sites":[
 
-{"key": "NOAD","name": "🥫NO┃视频","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://notabug.org/xhkw/vip/raw/main/json/novip.json"},
-
-{"key" : "js_v2-jrly","name" :"📯嘉靓┃切片","type" : 3,"api" : "https://notabug.org/xhkw/vip/raw/main/lib/drpy2.min.js","ext" : "https://notabug.org/xhkw/vip/raw/main/js/嘉靓.js"},
-
-{"key": "花海","name": "🌼花海┃影视","api": "csp_AppYs","type": 3,"playerType": "2","ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"},
-
 {"key":"csp_Free","name":"🌱Free┃影视","type":3,"api":"csp_XBPQ","jar": "http://小盒.酷玩.fun:70/Q群：667928548/禁止贩卖","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/xhkw/vip/raw/main/json/free.json"},
 
 {"key": "03","name": "🧠零三┃影院","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://notabug.org/xhkw/vip/raw/main/json/03.json"},
