@@ -6,12 +6,12 @@
 
 {
 
-"warningText":"小盒酷玩提醒：每次使用前记得长按主页刷新接口",    
+"warningText":"小杨提醒：每次使用前记得长按主页刷新接口",    
 
 
 "sites":[
 
-{"key": "豆瓣","name": "🎯小盒酷玩┃Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "杨杨杨 TV","name": "🎯杨杨杨TV","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
 {"key":"csp_WoGG","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd"},
 
