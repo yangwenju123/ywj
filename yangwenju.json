@@ -13,7 +13,7 @@
 
 {"key": "杨杨杨 TV","name": "🎯杨杨杨 TV","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key":"csp_WoGG","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
+{"key":"csp_WoGG","name":"👽玩偶┃云盘","type":3, "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705767525343/fan.txt;md5;ea09c2021f8e6b353b77a48b8a23bdf0","api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
 
 {"key":"Wogg","name":"玩偶4K","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./tvbox/tok.txt$$$https://wogg.xyz/|104.16.245.50$$$null$$$1$$$./json/wogg.json"},
 
