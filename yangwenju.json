@@ -13,10 +13,9 @@
 
 {"key": "豆瓣","name": "🎯小盒酷玩┃Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "玩偶哥哥","name": "玩偶4K秒播","type": 3,api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
+{"key":"玩偶哥哥","name":"玩偶哥哥","type":3,"api":"csp_WoGG", "searchable":1,"quickSearch":1, "changeable":0, "ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"}
 ,
 
-{"key": "小盒云盘","name": "📦小盒┃云盘","type": 3,"api": "csp_Wogg","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"hide": 1,"jar": "./jar/ali2.jar","ext": {"token": "./tvbox/tok.txt","filter": "./json/wogg.json"}},
 
 {"key":"子子影视","name":"➰影视┃子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
 
