@@ -13,7 +13,7 @@
 
 {"key": "豆瓣","name": "🎯小盒酷玩┃Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key":"csp_WoGG","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"5bfeac1aa83a4db99a1c5312784a4f4c+4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
+{"key":"csp_WoGG","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"5bfeac1aa83a4db99a1c5312784a4f4c"},
 
 {"key": "小盒云盘","name": "📦小盒┃云盘","type": 3,"api": "csp_Wogg","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"hide": 1,"jar": "./jar/ali2.jar","ext": {"token": "./tvbox/tok.txt","filter": "./json/wogg.json"}},
 
